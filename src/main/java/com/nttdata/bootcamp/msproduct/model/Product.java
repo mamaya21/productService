@@ -16,7 +16,6 @@ public class Product {
     @Id
     private Integer id;
     private String nameProduct;
-    private String aliasProduct;
     private String typeProduct;
     private String statusProduct;
 }
